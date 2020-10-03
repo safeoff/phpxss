@@ -4,4 +4,4 @@
     $t1 = htmlspecialchars($_SESSION[t1], ENT_QUOTES);
 ?>
 <p><?php echo $t1 ?></p>
-<a href="010.php?ret=1">戻る</a>
+<a href="010.php?mode=back">戻る</a>

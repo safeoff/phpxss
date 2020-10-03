@@ -4,7 +4,7 @@
 </form>
 <?php
     session_start();
-    if($_GET[ret]==1) {
+    if($_GET[mode]=='back') {
         echo "<script>document.getElementById(\"t1\").value ='";
         echo $_SESSION[t1];
         echo "'</script>";
