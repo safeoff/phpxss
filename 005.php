@@ -5,6 +5,6 @@
     }
 ?>
 <form action="" method="post">
-    <input type="hidden" name="h1" value="005	_01	rel	post	167139019231	Array_005.php	005	005	.	__\>">
+<input type="hidden" name="h1" value="005	_01	<?php echo getenv('REMOTE_ADDR') ?>	post	<?php echo time() ?>	Array_005.php	005	005	.	__\>">
     <input type="submit">
 </form>
