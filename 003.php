@@ -1,3 +1,4 @@
+<a href="./#</003">TOP</a>
 <?php
     $t1 = preg_replace('/&/i', '&amp;', $_POST[t1]);
     $t1 = preg_replace('/"/i', '&quot;', $t1);

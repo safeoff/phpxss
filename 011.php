@@ -1,3 +1,4 @@
+<a href="./#ar011,ie012">TOP</a>
 <?php 
     $t1 = htmlspecialchars($_POST[t1], ENT_QUOTES);
     echo array_keys($_POST[t1])[0];

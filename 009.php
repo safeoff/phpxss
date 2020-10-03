@@ -1,3 +1,4 @@
+<a href="./#em009">TOP</a>
 <?php
     $t1 = preg_replace('/script|img|svg|a|on/i', '#', $_POST[t1]);
 ?>

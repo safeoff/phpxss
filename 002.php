@@ -1,3 +1,4 @@
+<a href="./#co002">TOP</a>
 <?php
     $_POST[t1] = htmlspecialchars($_POST[t1], ENT_QUOTES);
     $_POST[t2] = htmlspecialchars($_POST[t2], ENT_QUOTES);

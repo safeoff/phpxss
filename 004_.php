@@ -1,3 +1,4 @@
+<a href="./#re004_">TOP</a>
 <?php
     $t1 = htmlspecialchars($_POST[t1], ENT_QUOTES);
 ?>

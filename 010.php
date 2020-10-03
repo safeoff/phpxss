@@ -1,3 +1,4 @@
+<a href="./#ba010">TOP</a>
 <form action="010_.php" method="post">
     <input type="text" name="t1" id="t1" value="">
     <input type="submit">
